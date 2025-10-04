@@ -1,0 +1,16 @@
+flask
+flask-restful
+psutil
+toml
+numpy
+chromadb
+yaspin
+rich
+platformdirs
+tiktoken
+matplotlib
+html2image
+jupyter_client
+litellm
+tokentrim
+playwright
